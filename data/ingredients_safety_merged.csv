@@ -1,0 +1,133 @@
+ingredient_name,safety_status,reason_for_unsafety,source
+wheat flour,safe,Common cereal ingredient,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+palm oil,unsafe,High saturated fat linked to heart disease,https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+salt,caution,High sodium intake increases blood pressure,https://www.who.int/news-room/fact-sheets/detail/salt-reduction
+wheat gluten,safe,"Common protein derived from wheat, safe for most",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3854496/
+calcium carbonate,safe,Used as a calcium supplement and acidity regulator,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+potassium chloride,safe,"Used as a salt substitute, generally safe",https://www.ncbi.nlm.nih.gov/books/NBK547859/
+sodium phosphate,caution,High intake can affect kidney function,https://www.ncbi.nlm.nih.gov/books/NBK546606/
+potassium carbonate,safe,Generally recognized as safe acidity regulator,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+sodium carbonate,safe,Common food additive and acidity regulator,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+guar gum,safe,Used as a thickener and stabilizer,https://www.fda.gov/food/food-additives-packaging/food-additive-status-list
+hydrolyzed peanut protein,unsafe,Peanut allergen; may cause severe reactions,https://www.foodallergy.org/living-food-allergies/food-allergy-ingredients/peanut
+peanut protein,unsafe,Peanut allergen; may cause severe reactions,https://www.foodallergy.org/living-food-allergies/food-allergy-ingredients/peanut
+sugar,caution,Excessive intake linked to obesity and diabetes,https://www.who.int/publications/i/item/9789241549028
+spices,safe,Generally safe in food amounts,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466765/
+onion powder,safe,"Widely used seasoning, safe for general consumption",https://www.ncbi.nlm.nih.gov/books/NBK92767/
+corn starch,safe,"Common thickener, generally safe",https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+red chili powder,safe,"Common spice, safe in moderate amounts",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466765/
+garlic powder,safe,"Common spice, safe for general consumption",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103721/
+citric acid,safe,Widely used preservative,https://www.fda.gov/food/food-additives-packaging/food-additive-status-list
+colour,caution,Depends on type; some artificial colors linked to health concerns,https://www.fda.gov/food/food-additives-petitions/color-additives
+disodium guanylate,safe,Flavor enhancer; safe in normal food amounts,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+disodium inosinate,safe,Flavor enhancer; generally recognized as safe,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+sodium bicarbonate,safe,Common leavening agent and acidity regulator,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+refined wheat flour (maida),safe,Refined wheat flour; common in baking,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+refined palm oil,unsafe,High in saturated fats; may affect heart health,https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+iodized salt,caution,Excessive intake may increase blood pressure,https://www.who.int/news-room/fact-sheets/detail/salt-reduction
+"thickeners (INS 508, INS 412)",safe,Used as stabilizers; safe in normal food amounts,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+"stabilizers (INS 170(i), INS 339(ii), INS 450(iii), INS 452(i))",safe,Used as anti-caking agents; generally safe,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+"acidity regulators (INS 501(i), INS 500(i), INS 330)",safe,Used to control pH; generally safe,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+"dehydrated vegetables (beans, carrot, onion, cabbage)",safe,Common vegetables; safe,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4266787/
+instant noodle powder,caution,Contains flavor enhancers and sodium,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+hydrolyzed vegetable protein,caution,May contain MSG; excessive intake can affect sensitive individuals,https://www.fda.gov/food/food-additives-petitions/questions-and-answers-monosodium-glutamate-msg
+natural flavours,safe,Derived from plant or animal sources; regulated by FDA,https://www.fda.gov/food/food-ingredients-packaging/natural-flavoring-substances
+maltodextrin,safe,Used as a thickener and sweetener; safe in moderation,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+yeast extract,safe,Generally recognized as safe flavoring,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+edible vegetable oil (palm),unsafe,High in saturated fat; may affect heart health,https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+antioxidant INS 319,safe,Used to prevent rancidity; generally safe,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+water,safe,Essential for life; safe,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+cottage cheese,safe,"Dairy product, safe for most; source of protein and calcium",https://www.fda.gov/food/food-labeling-nutrition/dairy-products
+tomato paste,safe,Commonly used in cooking; generally safe,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+refined sunflower oil,safe,Generally safe cooking oil; contains unsaturated fats,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+cashew nut,unsafe,Nut allergen; may cause severe reactions,https://www.foodallergy.org/living-food-allergies/food-allergy-ingredients/tree-nuts
+ghee,safe,"Clarified butter, safe in moderation",https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+butter,caution,High in saturated fat; consume in moderation,https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+green chilli,safe,Spicy vegetable; safe in moderate amounts,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466765/
+garlic paste,safe,Derived from garlic; safe for most,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103721/
+coriander leaves,safe,Safe herb used as seasoning,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466765/
+fenugreek leaves,safe,Safe herb; moderate culinary use,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466765/
+cumin,safe,Common spice; safe in food amounts,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466765/
+"unbleached enriched flour (wheat flour, niacin, reduced iron, thiamine mononitrate {vitamin B1}, riboflavin {vitamin B2}, folic acid)",safe,Fortified flour; generally safe,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+soybean oil,safe,Common cooking oil; generally safe,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+canola oil,safe,Cooking oil; low in saturated fat,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+cocoa (processed with alkali),safe,Generally safe; used in chocolate products,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+high fructose corn syrup,caution,Linked to obesity and insulin resistance,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4997435/
+baking soda,safe,Common leavening agent,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+calcium phosphate,safe,Used in leavening and fortification,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+soy lecithin,safe,Used as emulsifier; safe in normal amounts,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+chocolate,safe,Generally safe; moderate consumption recommended,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+artificial flavor,caution,Depends on type; excessive intake may have risks,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+rbd palm oil,unsafe,High in saturated fats; may affect heart health,https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+invert syrup,caution,High sugar content; excessive intake not recommended,https://www.who.int/publications/i/item/9789241549028
+ammonium bicarbonate,safe,Used as leavening; safe in food amounts,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+skim milk powder,safe,Dairy product; generally safe,https://www.fda.gov/food/food-labeling-nutrition/dairy-products
+artificial vanilla flavour,caution,Depends on type; generally safe in small amounts,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+emulsifier of vegetable origin (soya lecithin or esters of mono and diglycerides and sodium stearoyl-2-lactylate),safe,Used as emulsifier; safe in normal amounts,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+sodium meta bisulphite,caution,Used as preservative; may cause allergic reactions in sensitive individuals,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+"choco chips (sugar, hydrogenated edible vegetable oil, cocoa solids, emulsifier of vegetable origin (soya lecithin), artificial vanilla flavour)",caution,Contains high sugar and hydrogenated oil,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+cocoa solids,safe,Generally safe; used in chocolate products,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+caramel colour,caution,"Some types may contain 4-MEI, a possible carcinogen",https://www.fda.gov/food/food-additives-petitions/questions-and-answers-caramel-coloring-and-4-mei
+rice grits,safe,Common cereal ingredient; generally safe,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+refined palmolein,unsafe,High in saturated fats; may affect heart health,https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+refined sugar,caution,Excessive intake linked to obesity and diabetes,https://www.who.int/publications/i/item/9789241549028
+spices & condiments,safe,Generally safe in food amounts,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466765/
+iodised salt,caution,High sodium intake increases blood pressure,https://www.who.int/news-room/fact-sheets/detail/salt-reduction
+"acidity regulators (INS 330, INS 296, INS 334)",safe,Used to control pH; generally safe,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+anticaking agent (INS 551),safe,Used to prevent clumping; safe in normal food amounts,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+"flavour enhancers (INS 627, INS 631)",caution,Used to enhance flavor; excessive intake may affect sensitive individuals,https://www.fda.gov/food/food-additives-petitions/questions-and-answers-monosodium-glutamate-msg
+corn grits,safe,Common cereal ingredient; generally safe,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+gram grits,safe,Derived from chickpeas; generally safe,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+acidity regulator (INS 500(ii)),safe,Used to control pH; generally safe,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+"grain blend (ricemeal, enriched cornmeal, chickpea meal)",safe,Fortified grains; generally safe,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+vegetable oil,safe,Generally safe; depends on type,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+corn maltodextrin,safe,Used as thickener and sweetener; safe in moderation,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+mango powder,safe,Natural fruit powder; safe,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+tomato powder,safe,Natural seasoning; safe,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+natural flavours (contains milk),caution,Contains milk allergen; safe otherwise,https://www.fda.gov/food/food-ingredients-packaging/natural-flavoring-substances
+paprika extract,safe,Natural spice extract; safe,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+mustard seed oil,caution,May cause allergic reactions in sensitive individuals,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+full cream milk powder,safe,Dairy product; generally safe,https://www.fda.gov/food/food-labeling-nutrition/dairy-products
+cocoa mass,safe,Generally safe; used in chocolate products,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+cocoa butter,safe,Generally safe; used in chocolate products,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+"vegetable fats (palm fruit, sunflower seed, shea nut, illipe seed, sal seed (soya))",caution,Palm fat high in saturated fat; soya allergen present,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+whey permeate (cow's milk),safe,Dairy ingredient; safe unless allergic,https://www.fda.gov/food/food-labeling-nutrition/dairy-products
+"emulsifiers (E442, E476, E471)",safe,Used as emulsifiers; safe in normal food amounts,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+flavourings,caution,Depends on type; generally safe in moderate amounts,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+lactose (milk),safe,Dairy sugar; safe unless allergic,https://www.fda.gov/food/food-labeling-nutrition/dairy-products
+milk fat,safe,Dairy fat; generally safe,https://www.fda.gov/food/food-labeling-nutrition/dairy-products
+lecithin (soy),safe,Used as emulsifier; soya allergen present,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+yeast,safe,Generally safe,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+milk solids,safe,Dairy product; safe unless allergic,https://www.fda.gov/food/food-labeling-nutrition/dairy-products
+liquid glucose,caution,High sugar content; excessive intake not recommended,https://www.who.int/publications/i/item/9789241549028
+hydrogenated oil,unsafe,Source of trans fats increasing cardiovascular risk,https://www.fda.gov/food/food-additives-petitions/trans-fat
+carbonated water,safe,Generally safe beverage base,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+caramel color,safe,Widely used food coloring; generally recognized as safe,https://www.fda.gov/food/food-additives-packaging/food-additive-status-list
+phosphoric acid,caution,Used for acidity; excessive intake may affect kidney health,https://www.ncbi.nlm.nih.gov/books/NBK547859/
+natural flavors,safe,Derived from plant or animal sources; generally safe,https://www.fda.gov/food/food-ingredients-packaging/natural-flavoring-substances
+caffeine,caution,Stimulant; excessive intake may affect health,https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much
+"sweeteners (acesulfame K, sucralose)",safe,Approved artificial sweeteners; safe in regulated amounts,https://www.fda.gov/food/food-additives-petitions/questions-and-answers-sweeteners
+mango pulp,safe,Natural fruit ingredient; safe in food amounts,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+"acidity regulator (INS 330, citric acid)",safe,Used to control pH; generally safe,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+"antioxidant (INS 300, ascorbic acid)",safe,Widely used antioxidant; generally safe,https://www.fda.gov/food/food-additives-packaging/food-additive-status-list
+permitted synthetic food colour (INS 110),caution,May cause allergic reactions in sensitive individuals,https://www.fda.gov/food/food-additives-packaging/food-additive-status-list
+added flavour (nature-identical flavouring substances),safe,Regulated flavoring; generally safe,https://www.fda.gov/food/food-ingredients-packaging/natural-flavoring-substances
+lemon juice concentrate,safe,Natural fruit extract; safe in food amounts,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+"spice and condiments (amchur powder, cumin powder, black pepper powder)",safe,Natural spices; safe in moderate amounts,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+black salt,caution,Contains high sodium; excessive intake not recommended,https://www.who.int/news-room/fact-sheets/detail/salt-reduction
+stabilizer (pectin),safe,Used to stabilize food; generally safe,https://www.fda.gov/food/food-additives-packaging/food-additive-status-list
+acidity regulator (E260),safe,Used to control pH; generally safe,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+"stabilisers (E1422, E415)",safe,Used as thickening/stabilizing agents; generally safe,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+"preservatives (E211, E202)",caution,Used to prevent spoilage; excessive intake may have health effects,https://www.fda.gov/food/food-additives-packaging/food-additive-status-list
+"spices and condiments (white pepper, schezwan pepper)",safe,Natural spices; safe in moderate amounts,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+sunflower oil,safe,Common cooking oil; safe in moderate amounts,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+flavour enhancer (E635),caution,May cause sensitivity in some individuals,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+celery,unsafe,Common allergen for sensitive individuals,https://www.foodallergy.org/common-allergens
+"soy sauce powder (soybean, wheat, salt)",unsafe,"Contains major allergens: soy, gluten",https://www.foodallergy.org/common-allergens
+hazelnuts,unsafe,Nut allergen; may cause severe reactions,https://www.foodallergy.org/common-allergens
+skimmed milk powder,caution,Contains milk; allergen for lactose-intolerant individuals,https://www.foodallergy.org/common-allergens
+fat-reduced cocoa,safe,Generally safe in food amounts,https://www.fda.gov/food/food-ingredients-packaging/food-ingredient-status-list
+emulsifier lecithins (soya),unsafe,Contains soy; common allergen,https://www.foodallergy.org/common-allergens
+vanillin (artificial),safe,Artificial flavor; safe in regulated amounts,https://www.fda.gov/food/food-additives-petitions/food-additive-status-list
+common salt,caution,High sodium intake increases blood pressure,https://www.who.int/news-room/fact-sheets/detail/salt-reduction
+permitted natural colour (annatto),caution,May cause allergic reactions in sensitive individuals,https://www.fda.gov/food/food-additives-packaging/food-additive-status-list

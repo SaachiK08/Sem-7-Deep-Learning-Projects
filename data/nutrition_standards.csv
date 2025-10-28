@@ -1,0 +1,10 @@
+nutrient,low_threshold,high_threshold,note
+energy_kcal,0,250,High energy – may contribute to obesity if excessive
+carbs_g,0,30,High carbs – can raise blood sugar if excessive
+total_sugar_g,0,10,High sugar – risk of obesity and diabetes
+added_sugar_g,0,5,Added sugar – risk of obesity and dental issues
+protein_g,0,10,"High protein – generally beneficial, watch for excess in processed foods"
+total_fat_g,0,17,High fat – risk of heart disease if saturated fat is high
+sat_fat_g,0,5,Saturated fat – risk of heart disease
+trans_fat_g,0,1,Trans fats – should be minimized
+sodium_mg,0,500,High sodium – risk of high blood pressure
